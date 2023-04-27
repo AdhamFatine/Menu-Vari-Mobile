@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">New Menu</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="gallery"><u><b>Gallery</b></u></string>
+    <string name="calculatrice"><u>Calculatrice</u></string>
+    <string name="convertor"><u>Currency Convertor</u></string>
+    <string name="convert">Convert</string>
+    <string name="vider">Vider</string>
+    <string name="resultat">Resultat</string>
+    <string name="euro">Euro (€)</string>
+    <string name="dollars">Dollar ($)</string>
+    <string name="montant">Montant:</string>
+    <string name="valeur1"><b><u>Entrez Valeur 1:</u></b></string>
+    <string name="valeur2"><b><u>Entrez Valeur 2:</u></b></string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="multiplier">x</string>
+    <string name="diviser">/</string>
+    <string name="au_carre">(n)²</string>
+    <string name="au_cube">(n)³</string>
+    <string name="home_text">The MENU will be shown by Sliding your Finger from Left to Right... </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
